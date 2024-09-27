@@ -90,14 +90,8 @@ The trained model achieves a reasonable level of accuracy across the seven emoti
 
 ### Future Work
 
-- Integrate real-time emotion detection using webcam input.
+- increase the model accuracy
 - Fine-tune the model with additional datasets for improved accuracy.
-- Implement emotion detection in videos.
 
-### License
 
-This project is licensed under the MIT License.
 
----
-
-Feel free to adjust the content and links as needed!
